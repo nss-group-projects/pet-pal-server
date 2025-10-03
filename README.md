@@ -35,6 +35,8 @@ The system is built with a .NET Core backend API and is designed to be used with
 
 ## Getting Started
 
+📝 If you are on a Mac and are running AirPlay, it defaults to port 5000, which is what this API will run on. Disable AirPlay while running the API.
+
 ### Cloning the Repository
 
 Clone the project to the directory of your choice, and then:
